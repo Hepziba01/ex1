@@ -1,0 +1,7 @@
+git clone <repo-url>
+cd <repo>
+
+git checkout -b my-branch
+git add .
+git commit -m "my changes"
+git push -u origin my-branch
